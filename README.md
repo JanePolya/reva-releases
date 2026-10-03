@@ -1,15 +1,19 @@
 # REVA for Windows
 
-Official binary downloads for the REVA audio visualizer. Product website: https://revalizer.com/reva/
+Official binary downloads: https://github.com/JanePolya/reva-releases/releases/tag/v1.0.0
 
-## Install
-Download **RevaSetup-0.7.2.exe** from Releases, run it, then launch REVA from the Start menu.
-Windows 10/11 x64 and Microsoft Edge WebView2 Runtime are required. Python and FFmpeg are included.
+REVA 1.0.0 for Windows 10/11 x64.
 
-REVA starts in Free mode. No account or payment is required. Pro offers $19 lifetime or $1.99/month with the same features. Purchases remain disabled while payment setup is completed. To activate an existing Pro license, use the Pro button in the app. Monthly licenses refresh online and remain usable offline for up to seven days within the paid period. Removing a key does not cancel billing.
+- Activate Pro with a signed license key or an authorized giveaway code.
+- Existing lifetime and monthly Pro activation survives updates. No new purchase is required.
+- The installer shows the destination folder and lets you choose it; updates remember the previous folder.
+- Current Wave branding and visualizer features are retained.
 
-This is a preview release. The installer is not digitally signed; Windows may show an unknown-publisher warning.
+Download RevaSetup-1.0.0.exe below, then install over your existing REVA. Your license is stored separately in %LOCALAPPDATA%\REVA. Monthly subscriptions continue to require periodic online refresh within the paid period.
+
+Free remains available. Pro: $19 lifetime or $1.99/month at https://revalizer.com/reva/.
+The installer is currently unsigned, so Windows may show an unknown-publisher warning.
 
 Terms: https://revalizer.com/terms/ · Support: aenordicvfx@proton.me
 
-This repository contains release downloads and documentation only.
+This repository contains binary downloads and documentation only.
